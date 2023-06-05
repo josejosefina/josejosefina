@@ -29,6 +29,10 @@ footer{
     border: 10px solid black;
     margin: 100px; 
 }
+.footer-container {
+  background-color: lightskyblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .box2 {
     background-color: lightgrey;
     width: 300px;
